@@ -1,0 +1,2 @@
+# shopmanagementsystem
+C# project
